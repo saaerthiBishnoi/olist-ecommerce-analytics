@@ -639,7 +639,6 @@ olist-ecommerce-analytics/
 ## 📎 References
 
 - Dataset: [Olist Brazilian E-Commerce on Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
-- Tutorial: [PostgreSQL + Power BI End-to-End Project — Dhanesh Malviya](https://youtu.be/dnKICi3hAko)
 
 ---
 
